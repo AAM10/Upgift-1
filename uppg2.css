@@ -1,0 +1,26 @@
+body{
+background-color:yellow;
+}
+h1{
+    color:blue;
+    font-family: Arial;
+    font-size: 22px;
+}
+p{
+    color:Purple;
+}
+}
+.svarttext{
+    color:black;
+    background: white;
+    text-align:center;
+}
+.högerjusterat{
+    text-align:right;
+}
+.länk{
+    text-decoration:overline;
+}
+.ram{
+    border:2px solid blue;
+}
